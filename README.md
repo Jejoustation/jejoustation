@@ -10,7 +10,7 @@
 
 # KUNJUNGI WEBSITE KAMI [DISINI](https://jejoustation.com/)
 
-![Contoh Tampilan](https://ibb.co/pb8HTht)
+![Contoh Tampilan](jejoustation.jpg)
 
 
 # Keunggulan Jejoustation
